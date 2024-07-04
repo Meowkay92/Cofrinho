@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1d75149-acbe-43d9-9f8e-774a11a80847" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cofrinho.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moeda/Cofrinho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moeda/Dolar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moeda/Euro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moeda/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moeda/Moeda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/moeda/Real.java" afterDir="false" />
+    <list default="true" id="b1d75149-acbe-43d9-9f8e-774a11a80847" name="Changes" comment="trabalho finalizado">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/moeda/Euro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/moeda/Euro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +25,26 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Meowkay92&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Meowkay92/Cofrinho&quot;,
+    &quot;accountId&quot;: &quot;b701176f-6dc2-4645-a1a5-8768129353fe&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -54,7 +62,7 @@
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.moeda.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -109,11 +117,35 @@
       <option name="presentableId" value="Default" />
       <updated>1720046891198</updated>
       <workItem from="1720046896321" duration="750000" />
-      <workItem from="1720111006019" duration="3504000" />
+      <workItem from="1720111006019" duration="4886000" />
     </task>
+    <task id="LOCAL-00001" summary="trabalho finalizado">
+      <option name="closed" value="true" />
+      <created>1720114641263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720114641263</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trabalho finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="trabalho finalizado" />
   </component>
 </project>
